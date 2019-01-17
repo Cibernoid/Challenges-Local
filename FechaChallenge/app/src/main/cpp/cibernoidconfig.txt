@@ -1,0 +1,11 @@
+<CibernoidConfig>
+	<CipherData>AES-128-CTR</CipherData>
+	<Challenges>
+		<count>1</count>
+		<Challenge name="dateChallenge">
+			<Params nparams="1">
+				<param>3</param>
+			</Params>
+		</Challenge>
+	</Challenges>
+</CibernoidConfig>
